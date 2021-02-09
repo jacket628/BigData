@@ -206,6 +206,7 @@
 2. [记录2018年底最后1次HBase故障维护](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247484729&idx=1&sn=74aca97d3904593416ede7ee9f39c5a9&chksm=908f2f50a7f8a646e11c6ed67209c52ce81bc9d90d2cc5d750d5668a04e621d4ff680cf3701e&scene=38#wechat_redirect)
 3. [HBase集群间实现数据相互同步](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247484705&idx=1&sn=ff9c4b9b578104f81e8af9933a58b62f&chksm=908f2f48a7f8a65e3e6a8de88ddaf4926cfc1df12c557105051ee295348925fe14e07bbe4cfc&scene=38#wechat_redirect)
 4. [某司生产 | Nginx配置HBaseWeb转发](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247484685&idx=1&sn=a8e31a4a21600000ed1a2722be6c57ad&chksm=908f2f64a7f8a67275204a294aa368c7cd5ef4e449fb2b453a6386504d2684ef5cee1262c4d3&scene=38#wechat_redirect)
+5. [HBase 存储原理剖析](https://www.imooc.com/learn/996)
 
 ##### Hue
 
